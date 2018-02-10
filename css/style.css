@@ -1,0 +1,55 @@
+/* http://kancelaria-babiak.pl/ */
+
+body
+{
+	background-image: url("../img/foto_main.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+.shell
+{
+	width: 55.15%;
+	height: 384px;
+	background-color: rgba(22, 25, 36, .6);
+	float: right;
+	position: relative;
+}
+
+.container
+{
+	width: auto;
+	height: 1000px;
+}
+
+.navbox
+{
+	position: absolute;
+	width: 270px;
+	height: 220px;
+	background-color: white;
+	bottom: 0;
+	background-image: url("../img/box_menu.png");
+
+}
+
+.logo
+{
+	position: absolute;
+	width: 270px;
+	height: 164px;
+	left: 270px;
+	background-image: url("../img/logo.png");
+}
+
+.pin
+{
+	position: absolute;
+	width: 49px;
+	height: 47px;
+	background-color: white;
+	bottom: 0;
+	left: 491px;
+	background-image: url("../img/pin.png");
+
+}
